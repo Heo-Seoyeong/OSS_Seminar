@@ -10,7 +10,7 @@
 
 ## 버그 수정
 * sudo git config --system include.path '$HOME/.config/git/config'
-* git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git"
+* git remote set-url origin "https://<Heo-Seoyeong>@github.com/<Heo-Seoyeong>/<OSS_Seminar>.git"
 
 ## 참고 자료    
 * 문서 참고 :   
